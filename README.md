@@ -1,4 +1,4 @@
-# 💻 Portafolio de Soporte TI – Giovanni Ospina O
+# 💻 Portafolio de Soporte TI – Giovanni Ospina Osorio
 
 ## 👨‍💻 Perfil Profesional
 
