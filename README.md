@@ -15,3 +15,7 @@ Especial de incidenciasEspecialista en Soporte TI con experiencia en:
 - Scripts
 - Agente de IA
 
+=======
+# IT-Support-Portfolio
+PROYECTOS Y PRÁCTICA EN SOPORTE TI
+Este repositorio contiene proyectos y prácticas relacionados con el soporte técnico en tecnología de la información (TI). Aquí encontrarás casos reales, procedimientos técnicos, scripts y un agente de inteligencia artificial para mejorar la eficiencia en el soporte TI.
