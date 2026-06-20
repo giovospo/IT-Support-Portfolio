@@ -1,36 +1,70 @@
-## 👨‍💻 Sobre mí
+# 💻 Portafolio de Soporte TI – Giovanni Ospina O
 
-Especialista en Soporte TI con experiencia en:
+## 👨‍💻 Perfil Profesional
 
-- Soporte técnico nivel 1 y 2
-- Diagnóstico de hardware, software y redes
-- Gestión de tickets y atención a usuarios
-- Automatización de soporte con IA (OpenClaw)
+Especialista en Soporte Técnico en TI con experiencia práctica en:
 
----
-
-## 🎯 Objetivo
-
-Demostrar habilidades prácticas en soporte técnico y resolución de incidencias en entornos reales.
-
-# 💻 IT Support Portfolio
-
-Especial de incidenciasEspecialista en Soporte TI con experiencia en:
-- Soporte nivel 1 y 2
-- Diagnóstico de hardware, software y redes
-- Uso de herramientas CRM y Help Desk
-- Automatización con IA (OpenClaw)
+- Soporte técnico nivel 1 y nivel 2
+- Gestión de incidencias y atención a usuarios
+- Diagnóstico de problemas en hardware, software y redes
+- Configuración de sistemas operativos (Windows, Linux, MacOS)
+- Administración de usuarios y accesos
+- Aplicación de buenas prácticas ITSM
+- Automatización de procesos con IA (OpenClaw)
 
 ---
 
-## 🚀 Contenido
+## 🎯 Objetivo del Proyecto
 
-- Casos reales de soporte
-- Procedimientos técnicos
-- Scripts
-- Agente de IA
+Este portafolio tiene como objetivo demostrar habilidades técnicas en soporte TI mediante la documentación de casos reales de incidencias, procedimientos de solución y automatización de tareas.
 
+---
+
+## 📁 Estructura del Proyecto
+
+- 📂 `tickets/`  
+  Casos reales de soporte técnico documentados con enfoque tipo ServiceNow
+
+- 📂 `procedures/`  
+  Procedimientos técnicos paso a paso para diagnóstico y solución de problemas
+
+- 📂 `scripts/`  
+  Scripts en PowerShell para automatización y diagnóstico
+
+- 📂 `openclaw-agent/`  
+  Configuración de agente de soporte TI con inteligencia artificial
+
+---
+
+## 🚀 Habilidades Demostradas
+
+- Gestión de incidentes (enfoque ITIL)
+- Análisis y resolución de problemas (troubleshooting)
+- Atención y soporte a usuarios
+- Documentación técnica profesional
+- Diagnóstico de infraestructura TI
+- Uso de herramientas de automatización e inteligencia artificial
+
+---
+
+## 🤖 Integración con Inteligencia Artificial
+
+El proyecto incluye un agente desarrollado con OpenClaw que simula la atención de soporte técnico, permitiendo automatizar diagnósticos y mejorar la experiencia del usuario.
+
+---
+
+## 📈 Futuras Mejoras
+
+- Integración con sistemas de ticketing reales (ServiceNow, Zendesk)
+- Automatización avanzada mediante scripts
+- Inclusión de más casos reales de soporte TI
+- Implementación de flujos de trabajo automatizados
+
+---
+
+## 📬 Contacto
+
+Disponible para oportunidades en soporte técnico TI, mesa de ayuda y áreas relacionadas.
+
+---
 =======
-# IT-Support-Portfolio
-PROYECTOS Y PRÁCTICA EN SOPORTE TI
-Este repositorio contiene proyectos y prácticas relacionados con el soporte técnico en tecnología de la información (TI). Aquí encontrarás casos reales, procedimientos técnicos, scripts y un agente de inteligencia artificial para mejorar la eficiencia en el soporte TI.
