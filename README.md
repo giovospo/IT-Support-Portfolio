@@ -49,7 +49,11 @@ Este portafolio tiene como objetivo demostrar habilidades técnicas en soporte T
 
 ## 🤖 Integración con Inteligencia Artificial
 
-El proyecto incluye un agente desarrollado con OpenClaw que simula la atención de soporte técnico, permitiendo automatizar diagnósticos y mejorar la experiencia del usuario.
+El proyecto incluye un agente desarrollado con OpenClaw que simula la atención de soporte técnico, permitiendo automatizar diagnósticos y mejorar la experiencia del usuario
+que simula la gestión de incidencias en un entorno corporativo, utilizando un enfoque tipo ServiceNow.
+
+Ubicación:
+📂 openclaw-agent/
 
 ---
 
