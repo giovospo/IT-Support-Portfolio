@@ -1,3 +1,18 @@
+## 👨‍💻 Sobre mí
+
+Especialista en Soporte TI con experiencia en:
+
+- Soporte técnico nivel 1 y 2
+- Diagnóstico de hardware, software y redes
+- Gestión de tickets y atención a usuarios
+- Automatización de soporte con IA (OpenClaw)
+
+---
+
+## 🎯 Objetivo
+
+Demostrar habilidades prácticas en soporte técnico y resolución de incidencias en entornos reales.
+
 # 💻 IT Support Portfolio
 
 Especial de incidenciasEspecialista en Soporte TI con experiencia en:
