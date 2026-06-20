@@ -67,4 +67,4 @@ El proyecto incluye un agente desarrollado con OpenClaw que simula la atención 
 Disponible para oportunidades en soporte técnico TI, mesa de ayuda y áreas relacionadas.
 
 ---
-=======
+
